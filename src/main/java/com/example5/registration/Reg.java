@@ -1,8 +1,8 @@
 package com.example5.registration;
 
 public class Reg {
-    public static void main(String[] args)
+    public void test()
     {
-        System.out.println("it is ");
+        System.out.println("it is good");
     }
 }
